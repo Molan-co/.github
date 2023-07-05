@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, we are Molan co</h1>
+<h1 align="center">Hi 👋, we are Mollan</h1>
 <h3 align="center">A very small group of game developers</h3>
   
 ![Discord Banner 2](https://discordapp.com/api/guilds/1121153785063014600/widget.png?style=banner2)\
